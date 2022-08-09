@@ -9,7 +9,5 @@ class KurlyApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	
-	test
-	
+
 }
