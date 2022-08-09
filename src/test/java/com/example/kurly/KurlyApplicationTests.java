@@ -9,6 +9,5 @@ class KurlyApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-	
-	
+	string a = "ddddddd";
 }
